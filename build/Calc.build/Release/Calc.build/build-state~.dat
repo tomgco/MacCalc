@@ -1,0 +1,272 @@
+TCalc
+v7
+r0
+t311639563.600724
+cCheck dependencies
+cProcessPCH /var/folders/aY/aYGbXW1OHxG3vBaKyhYtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calc_Prefix-bggwfiflwvgmwibyjxcvjdbtjdas/Calc_Prefix.pch.gch Calc_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+c<C0022:'CompileC CalcModel.o':P9:W0>
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/CalcAppDelegate.h
+c000000004CE3055C0000000000000290
+t1289946460
+s656
+i<Cocoa/Cocoa.h>
+i"CalcModel.h"
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/CalcAppDelegate.m
+c000000004CE3058800000000000004FE
+t1289946504
+s1278
+i"CalcAppDelegate.h"
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/CalcModel.h
+c000000004CE302E9000000000000017C
+t1289945833
+s380
+i<Cocoa/Cocoa.h>
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/CalcModel.m
+c000000004CE3067E00000000000001E4
+t1289946750
+s484
+i"CalcModel.h"
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/Calc_Prefix.pch
+c000000004CE2EA7F000000000000008B
+t1289939583
+s139
+i<Cocoa/Cocoa.h>
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/English.lproj/InfoPlist.strings
+c000000004CE2EA7F000000000000002D
+t1289939583
+s45
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/English.lproj/MainMenu.xib
+c000000004CE303000000000000038A87
+t1289945856
+s232071
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Objects-normal/i386/Calc
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Objects-normal/i386/Calc.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Objects-normal/i386/CalcAppDelegate.o
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Objects-normal/i386/CalcModel.o
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Objects-normal/ppc/Calc
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Objects-normal/ppc/Calc.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Objects-normal/ppc/CalcAppDelegate.o
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Objects-normal/ppc/CalcModel.o
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Objects-normal/ppc/main.o
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Objects-normal/x86_64/Calc
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Objects-normal/x86_64/Calc.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Objects-normal/x86_64/CalcAppDelegate.o
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Objects-normal/x86_64/CalcModel.mi
+t1289946763
+s3452618
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Objects-normal/x86_64/CalcModel.o
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Release/Calc.app
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Release/Calc.app.dSYM
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Release/Calc.app/Contents/Info.plist
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Release/Calc.app/Contents/MacOS/Calc
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Release/Calc.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Release/Calc.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Release/Calc.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/Tom/Dropbox/Objective-C Progs/Calc/main.m
+c000000004CE2EA7F00000000000000FE
+t1289939583
+s254
+i<Cocoa/Cocoa.h>
+
+N/var/folders/aY/aYGbXW1OHxG3vBaKyhYtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calc_Prefix-bggwfiflwvgmwibyjxcvjdbtjdas/Calc_Prefix.pch.gch
+t1289946763
+s52922128
+
+N/var/folders/aY/aYGbXW1OHxG3vBaKyhYtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calc_Prefix-ccbfbmbcfdpqbiaxeciyyjapbqdx/Calc_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/aY/aYGbXW1OHxG3vBaKyhYtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calc_Prefix-gphodgziktuazsbvaosqkhngtynx/Calc_Prefix.pch.gch
+t2
+s0
+
+NCalc-Info.plist
+c000000004CE2EA7F00000000000003EA
+t1289939583
+s1002
+
+C<C0022:'CompileC CalcModel.o':P9:W0>
+s311639563.147498
+e311639563.600671
+r1
+xCompileC
+xbuild/Calc.build/Release/Calc.build/Objects-normal/x86_64/CalcModel.o
+x/Users/Tom/Dropbox/Objective-C Progs/Calc/CalcModel.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Tom/Dropbox/Objective-C Progs/Calc/CalcModel.m311639563#311639563#0(0"0(0#0#53"/Users/Tom/Dropbox/Objective-C Progs/Calc/CalcModel.m7164208048422270976#1414"    cd "/Users/Tom/Dropbox/Objective-C Progs/Calc"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Calc-generated-files.hmap" "-I/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Calc-own-target-headers.hmap" "-I/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Calc-all-target-headers.hmap" -iquote "/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Calc-project-headers.hmap" "-F/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Release" "-I/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Release/include" "-I/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/DerivedSources/x86_64" "-I/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/DerivedSources" -include "/Users/Tom/Dropbox/Objective-C Progs/Calc/Calc_Prefix.pch" -fpch-preprocess -E "/Users/Tom/Dropbox/Objective-C Progs/Calc/CalcModel.m" -o "/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Objects-normal/x86_64/CalcModel.mi"0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311639558#311639558#0(0"0(0#1#0"8608397504#0"0#
+
+CCompileC build/Calc.build/Release/Calc.build/Objects-normal/i386/CalcAppDelegate.o "/Users/Tom/Dropbox/Objective-C Progs/Calc/CalcAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Calc.build/Release/Calc.build/Objects-normal/i386/CalcModel.o "/Users/Tom/Dropbox/Objective-C Progs/Calc/CalcModel.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Calc.build/Release/Calc.build/Objects-normal/i386/main.o "/Users/Tom/Dropbox/Objective-C Progs/Calc/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Calc.build/Release/Calc.build/Objects-normal/ppc/CalcAppDelegate.o "/Users/Tom/Dropbox/Objective-C Progs/Calc/CalcAppDelegate.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Calc.build/Release/Calc.build/Objects-normal/ppc/CalcModel.o "/Users/Tom/Dropbox/Objective-C Progs/Calc/CalcModel.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Calc.build/Release/Calc.build/Objects-normal/ppc/main.o "/Users/Tom/Dropbox/Objective-C Progs/Calc/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Calc.build/Release/Calc.build/Objects-normal/x86_64/CalcAppDelegate.o "/Users/Tom/Dropbox/Objective-C Progs/Calc/CalcAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Calc.build/Release/Calc.build/Objects-normal/x86_64/CalcModel.o "/Users/Tom/Dropbox/Objective-C Progs/Calc/CalcModel.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Calc.build/Release/Calc.build/Objects-normal/x86_64/main.o "/Users/Tom/Dropbox/Objective-C Progs/Calc/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/Tom/Dropbox/Objective-C Progs/Calc/English.lproj/MainMenu.xib"
+r0
+
+CCopyStringsFile "/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Release/Calc.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCreateUniversalBinary "/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Release/Calc.app/Contents/MacOS/Calc" normal "x86_64 i386 ppc"
+r0
+
+CGenerateDSYMFile "/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Release/Calc.app.dSYM" "/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Release/Calc.app/Contents/MacOS/Calc"
+r0
+
+CLd "/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Objects-normal/i386/Calc" normal i386
+r0
+
+CLd "/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Objects-normal/ppc/Calc" normal ppc
+r0
+
+CLd "/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Objects-normal/x86_64/Calc" normal x86_64
+r0
+
+CProcessInfoPlistFile "/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Release/Calc.app/Contents/Info.plist" Calc-Info.plist
+r0
+
+CProcessPCH /var/folders/aY/aYGbXW1OHxG3vBaKyhYtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calc_Prefix-bggwfiflwvgmwibyjxcvjdbtjdas/Calc_Prefix.pch.gch Calc_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s311639558.908322
+e311639563.147259
+r1
+xProcessPCH
+x/var/folders/aY/aYGbXW1OHxG3vBaKyhYtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calc_Prefix-bggwfiflwvgmwibyjxcvjdbtjdas/Calc_Prefix.pch.gch
+xCalc_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Calc_Prefix.pch311639558#311639563#0(0"0(0#0#57"/Users/Tom/Dropbox/Objective-C Progs/Calc/Calc_Prefix.pch8607741664#1383"    cd "/Users/Tom/Dropbox/Objective-C Progs/Calc"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Calc-generated-files.hmap" "-I/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Calc-own-target-headers.hmap" "-I/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Calc-all-target-headers.hmap" -iquote "/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/Calc-project-headers.hmap" "-F/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Release" "-I/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Release/include" "-I/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/DerivedSources/x86_64" "-I/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Calc.build/Release/Calc.build/DerivedSources" -c "/Users/Tom/Dropbox/Objective-C Progs/Calc/Calc_Prefix.pch" -o /var/folders/aY/aYGbXW1OHxG3vBaKyhYtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calc_Prefix-bggwfiflwvgmwibyjxcvjdbtjdas/Calc_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/aY/aYGbXW1OHxG3vBaKyhYtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calc_Prefix-ccbfbmbcfdpqbiaxeciyyjapbqdx/Calc_Prefix.pch.gch Calc_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/aY/aYGbXW1OHxG3vBaKyhYtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calc_Prefix-gphodgziktuazsbvaosqkhngtynx/Calc_Prefix.pch.gch Calc_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/Tom/Dropbox/Objective-C Progs/Calc/build/Release/Calc.app"
+r0
+

@@ -1,0 +1,196 @@
+TCalc
+v7
+r0
+t311632405.123456
+cCheck dependencies
+cProcessInfoPlistFile /Users/Tom/Desktop/Calc/build/Debug/Calc.app/Contents/Info.plist Calc-Info.plist
+cCopyStringsFile /Users/Tom/Desktop/Calc/build/Debug/Calc.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/Tom/Desktop/Calc/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/aY/aYGbXW1OHxG3vBaKyhYtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calc_Prefix-cxuyehreokghxycwwcqsvqqoumzd/Calc_Prefix.pch.gch Calc_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Calc.build/Debug/Calc.build/Objects-normal/x86_64/main.o /Users/Tom/Desktop/Calc/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Calc.build/Debug/Calc.build/Objects-normal/x86_64/CalcAppDelegate.o /Users/Tom/Desktop/Calc/CalcAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Tom/Desktop/Calc/build/Debug/Calc.app/Contents/MacOS/Calc normal x86_64
+cTouch /Users/Tom/Desktop/Calc/build/Debug/Calc.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/Tom/Desktop/Calc/CalcAppDelegate.h
+c000000004CE2EA7F0000000000000136
+t1289939583
+s310
+i<Cocoa/Cocoa.h>
+
+N/Users/Tom/Desktop/Calc/CalcAppDelegate.m
+c000000004CE2EA7F0000000000000168
+t1289939583
+s360
+i"CalcAppDelegate.h"
+
+N/Users/Tom/Desktop/Calc/Calc_Prefix.pch
+c000000004CE2EA7F000000000000008B
+t1289939583
+s139
+i<Cocoa/Cocoa.h>
+
+N/Users/Tom/Desktop/Calc/English.lproj/InfoPlist.strings
+c000000004CE2EA7F000000000000002D
+t1289939583
+s45
+
+N/Users/Tom/Desktop/Calc/English.lproj/MainMenu.xib
+c000000004CE2EA7F000000000002BB4A
+t1289939583
+s179018
+
+N/Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/Objects-normal/x86_64/Calc.LinkFileList
+c000000004CE2EA9000000000000000B9
+t1289939600
+s185
+
+N/Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/Objects-normal/x86_64/CalcAppDelegate.o
+t1289939604
+s21000
+
+N/Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/Objects-normal/x86_64/main.o
+t1289939604
+s4960
+
+N/Users/Tom/Desktop/Calc/build/Debug/Calc.app
+t1289939605
+s102
+
+N/Users/Tom/Desktop/Calc/build/Debug/Calc.app/Contents/Info.plist
+t1289939600
+s877
+
+N/Users/Tom/Desktop/Calc/build/Debug/Calc.app/Contents/MacOS/Calc
+t1289939605
+s14384
+
+N/Users/Tom/Desktop/Calc/build/Debug/Calc.app/Contents/PkgInfo
+t1289939600
+s8
+
+N/Users/Tom/Desktop/Calc/build/Debug/Calc.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1289939600
+s92
+
+N/Users/Tom/Desktop/Calc/build/Debug/Calc.app/Contents/Resources/English.lproj/MainMenu.nib
+t1289939600
+s34337
+
+N/Users/Tom/Desktop/Calc/main.m
+c000000004CE2EA7F00000000000000FE
+t1289939583
+s254
+i<Cocoa/Cocoa.h>
+
+N/var/folders/aY/aYGbXW1OHxG3vBaKyhYtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calc_Prefix-cxuyehreokghxycwwcqsvqqoumzd/Calc_Prefix.pch.gch
+t1289939604
+s54265616
+
+NCalc-Info.plist
+c000000004CE2EA7F00000000000003EA
+t1289939583
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311632400#311632400#0(0"0(0#1#0"8731798240#0"0#
+
+CCompileC build/Calc.build/Debug/Calc.build/Objects-normal/x86_64/CalcAppDelegate.o /Users/Tom/Desktop/Calc/CalcAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s311632404.802277
+e311632405.046233
+r1
+xCompileC
+xbuild/Calc.build/Debug/Calc.build/Objects-normal/x86_64/CalcAppDelegate.o
+x/Users/Tom/Desktop/Calc/CalcAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/Tom/Desktop/Calc/CalcAppDelegate.m311632404#311632405#0(0"0(0#0#41"/Users/Tom/Desktop/Calc/CalcAppDelegate.m8702434496#1247"    cd /Users/Tom/Desktop/Calc    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/Calc-generated-files.hmap -I/Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/Calc-own-target-headers.hmap -I/Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/Calc-all-target-headers.hmap -iquote /Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/Calc-project-headers.hmap -F/Users/Tom/Desktop/Calc/build/Debug -I/Users/Tom/Desktop/Calc/build/Debug/include -I/Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/DerivedSources/x86_64 -I/Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/DerivedSources -include /var/folders/aY/aYGbXW1OHxG3vBaKyhYtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calc_Prefix-cxuyehreokghxycwwcqsvqqoumzd/Calc_Prefix.pch -c /Users/Tom/Desktop/Calc/CalcAppDelegate.m -o /Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/Objects-normal/x86_64/CalcAppDelegate.o0#
+
+CCompileC build/Calc.build/Debug/Calc.build/Objects-normal/x86_64/main.o /Users/Tom/Desktop/Calc/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s311632404.786204
+e311632404.977289
+r1
+xCompileC
+xbuild/Calc.build/Debug/Calc.build/Objects-normal/x86_64/main.o
+x/Users/Tom/Desktop/Calc/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Compile /Users/Tom/Desktop/Calc/main.m311632404#311632404#0(0"0(0#0#30"/Users/Tom/Desktop/Calc/main.m8703173728#1225"    cd /Users/Tom/Desktop/Calc    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/Calc-generated-files.hmap -I/Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/Calc-own-target-headers.hmap -I/Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/Calc-all-target-headers.hmap -iquote /Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/Calc-project-headers.hmap -F/Users/Tom/Desktop/Calc/build/Debug -I/Users/Tom/Desktop/Calc/build/Debug/include -I/Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/DerivedSources/x86_64 -I/Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/DerivedSources -include /var/folders/aY/aYGbXW1OHxG3vBaKyhYtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calc_Prefix-cxuyehreokghxycwwcqsvqqoumzd/Calc_Prefix.pch -c /Users/Tom/Desktop/Calc/main.m -o /Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/Tom/Desktop/Calc/English.lproj/MainMenu.xib
+s311632400.435287
+e311632400.845284
+r1
+xCompileXIB
+x/Users/Tom/Desktop/Calc/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib311632400#311632400#0(0"0(0#0#50"/Users/Tom/Desktop/Calc/English.lproj/MainMenu.xib8630280864#316"    cd /Users/Tom/Desktop/Calc    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Tom/Desktop/Calc/build/Debug/Calc.app/Contents/Resources/English.lproj/MainMenu.nib /Users/Tom/Desktop/Calc/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/Tom/Desktop/Calc/build/Debug/Calc.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s311632400.433727
+e311632400.820274
+r1
+xCopyStringsFile
+x/Users/Tom/Desktop/Calc/build/Debug/Calc.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings311632400#311632400#0(0"0(0#0#55"/Users/Tom/Desktop/Calc/English.lproj/InfoPlist.strings8667899648#332"    cd /Users/Tom/Desktop/Calc    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/Tom/Desktop/Calc/build/Debug/Calc.app/Contents/Resources/English.lproj0#
+
+CLd /Users/Tom/Desktop/Calc/build/Debug/Calc.app/Contents/MacOS/Calc normal x86_64
+s311632405.046331
+e311632405.120310
+r1
+xLd
+x/Users/Tom/Desktop/Calc/build/Debug/Calc.app/Contents/MacOS/Calc
+xnormal
+xx86_64
+lSLF07#2@69"Link /Users/Tom/Desktop/Calc/build/Debug/Calc.app/Contents/MacOS/Calc311632405#311632405#0(0"0(0#0#0"8702796032#452"    cd /Users/Tom/Desktop/Calc    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Tom/Desktop/Calc/build/Debug -F/Users/Tom/Desktop/Calc/build/Debug -filelist /Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/Objects-normal/x86_64/Calc.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/Tom/Desktop/Calc/build/Debug/Calc.app/Contents/MacOS/Calc0#
+
+CProcessInfoPlistFile /Users/Tom/Desktop/Calc/build/Debug/Calc.app/Contents/Info.plist Calc-Info.plist
+s311632400.428978
+e311632400.433626
+r1
+xProcessInfoPlistFile
+x/Users/Tom/Desktop/Calc/build/Debug/Calc.app/Contents/Info.plist
+xCalc-Info.plist
+lSLF07#2@23"Process Calc-Info.plist311632400#311632400#0(0"0(0#0#39"/Users/Tom/Desktop/Calc/Calc-Info.plist8711806944#256"    cd /Users/Tom/Desktop/Calc    builtin-infoPlistUtility Calc-Info.plist -genpkginfo /Users/Tom/Desktop/Calc/build/Debug/Calc.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Tom/Desktop/Calc/build/Debug/Calc.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/aY/aYGbXW1OHxG3vBaKyhYtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calc_Prefix-cxuyehreokghxycwwcqsvqqoumzd/Calc_Prefix.pch.gch Calc_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s311632400.845403
+e311632404.785870
+r1
+xProcessPCH
+x/var/folders/aY/aYGbXW1OHxG3vBaKyhYtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calc_Prefix-cxuyehreokghxycwwcqsvqqoumzd/Calc_Prefix.pch.gch
+xCalc_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Calc_Prefix.pch311632400#311632404#0(0"0(0#0#39"/Users/Tom/Desktop/Calc/Calc_Prefix.pch8731950336#1149"    cd /Users/Tom/Desktop/Calc    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/Calc-generated-files.hmap -I/Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/Calc-own-target-headers.hmap -I/Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/Calc-all-target-headers.hmap -iquote /Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/Calc-project-headers.hmap -F/Users/Tom/Desktop/Calc/build/Debug -I/Users/Tom/Desktop/Calc/build/Debug/include -I/Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/DerivedSources/x86_64 -I/Users/Tom/Desktop/Calc/build/Calc.build/Debug/Calc.build/DerivedSources -c /Users/Tom/Desktop/Calc/Calc_Prefix.pch -o /var/folders/aY/aYGbXW1OHxG3vBaKyhYtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calc_Prefix-cxuyehreokghxycwwcqsvqqoumzd/Calc_Prefix.pch.gch0#
+
+CTouch /Users/Tom/Desktop/Calc/build/Debug/Calc.app
+s311632405.120409
+e311632405.123413
+r1
+xTouch
+x/Users/Tom/Desktop/Calc/build/Debug/Calc.app
+lSLF07#2@50"Touch /Users/Tom/Desktop/Calc/build/Debug/Calc.app311632405#311632405#0(0"0(0#0#0"8728269056#98"    cd /Users/Tom/Desktop/Calc    /usr/bin/touch -c /Users/Tom/Desktop/Calc/build/Debug/Calc.app0#
+
